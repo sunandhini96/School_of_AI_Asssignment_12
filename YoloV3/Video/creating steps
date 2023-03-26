@@ -1,0 +1,23 @@
+## Video Creation:
+
+First trained yoloV3 model on custom dataset (with 4 classes - lion, ship, mr.bean,Mickeymouse).
+
+Download a very small (~10-30sec) video from youtube which shows our classes.
+ 
+by using ffmpeg to extract frames from the video. 
+
+ !ffmpeg -i video.webm -f image2 image-%03d.png
+ 
+ By running detect.py to infer the images.
+ 
+!python detect.py --source "/content/drive/MyDrive/sunandini/YoloV3/images" --weights "/content/drive/MyDrive/sunandini/YoloV3/weights/last.pt" --cfg "/content/drive/MyDrive/sunandini/YoloV3/data/cfg/yolov3-custom.cfg" --conf-thres 0.3 --output "/content/output_16_images"
+
+By using ffmpeg  to convert the files in your output folder to video
+
+!ffmpeg -i image-%03d.png video_1.mp4
+
+Uploaded the video to YouTube. 
+
+Here link for the Youtube Video :
+
+https://www.youtube.com/watch?v=jDCcqkfNNLo
