@@ -2,7 +2,7 @@
 
 ## Yolo V3 Object detection :
 
-Task 1) By using Open Cv Yolo V3 code :
+## Task 1) By using Open Cv Yolo V3 code :
 
 Code : https://github.com/sunandhini96/School_of_AI_Asssignment_12/tree/main/Yolov3_object_detection
 
@@ -22,13 +22,32 @@ annotated_image.png --> output image
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/63030539/227792835-6917acc0-f5b8-4e86-b82c-f84d30c37695.png">
 
-Task 2) : Training YoloV3 on custom dataset
+
+## The implementation steps for YOLOv3 :
+
+i) Set up the environment: Install necessary dependencies such as opencv,pytorch.
+
+ii) Download the YOLOv3 weights,YOLOv3 configuration file and coco names file.
+
+iii) Load the pre-trained weights,configuration file.
+
+iv) Set up the pre-processing steps such as resizing and normalization.
+
+v) Define the post-processing steps for the model's output, such as non-maximum suppression (NMS), thresholding, and bounding box decoding.
+
+vi) Running the YOLOv3 model on the input images and obtain the detection results.
+
+vii) Visualize the detection results.
+
+## Task 2) : Training YoloV3 on custom dataset
 
 All the files are presented in this folder -->  https://github.com/sunandhini96/School_of_AI_Asssignment_12/tree/main/YoloV3
 
 Custom datset : Each class consists of 25 images. We created 4 classes ( 100 images).
 
 4 classes : Lion, Mr.bean, Ship, Mickey Mouse.
+
+We annotated the images by using Yolo V3 annotation tool : https://github.com/miki998/YoloV3_Annotation_Tool
 
 By following the steps in https://github.com/theschoolofai/YoloV3 repository.
 
@@ -65,7 +84,7 @@ Output for last few epochs:
 
 We created video by following some steps : 
 
-## Video Creation:
+## Task 3 : Video Creation:
 
 First trained yoloV3 model on custom dataset (with 4 classes - lion, ship, mr.bean,Mickeymouse).
 
