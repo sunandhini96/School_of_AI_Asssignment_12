@@ -1,0 +1,4 @@
+classes=4
+train=/content/drive/MyDrive/sunandini/YoloV3/data/customdata/train.txt
+valid=/content/drive/MyDrive/sunandini/YoloV3/data/customdata/test.txt
+names=/content/drive/MyDrive/sunandini/YoloV3/data/customdata/custom.names

@@ -1,0 +1,10 @@
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img010.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img020.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img030.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img040.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img050.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img060.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img070.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img080.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img090.jpg
+/content/drive/MyDrive/sunandini/YoloV3/data/customdata/images/img100.jpg
