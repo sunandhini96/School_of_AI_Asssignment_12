@@ -12,7 +12,7 @@ coco.names --> class names in the dataset
 
 yolov3.cfg --> configuration file
 
-yolov3_object_detection.ipynb : code
+yolov3_object_detection.ipynb : code (using readNetFromDarknet code)
 
 WIN_20230325_08_18_44_Pro.jpg --> Input image
 
@@ -21,6 +21,18 @@ WIN_20230325_08_18_44_Pro.jpg --> Input image
 annotated_image.png --> output image
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/63030539/227792835-6917acc0-f5b8-4e86-b82c-f84d30c37695.png">
+
+yolov3 task 1 --> ( using readNet code)
+
+https://github.com/sunandhini96/School_of_AI_Asssignment_12/blob/main/Yolov3_object_detection/yolov3_object_detection_task1.ipynb
+
+WIN_20230325_08_18_44_Pro.jpg --> Input image
+
+![WIN_20230325_08_18_44_Pro](https://user-images.githubusercontent.com/63030539/227792704-e5160837-1bf9-4133-9e0c-9914763e56b4.jpg)
+
+annotated_image_task1.png --> output image
+
+<img width="383" alt="annotated_image_task1" src="https://user-images.githubusercontent.com/63030539/228132914-5a61789d-3bf7-4013-9ed4-b7bfefdb1069.png">
 
 
 ## The implementation steps for YOLOv3 :
